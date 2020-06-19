@@ -2,7 +2,8 @@
   "cards": [
     {
       "id": "4QL52O",
-      "status": "process"
+      "status": "process",
+      "paymantUrl": "https://kassa.yandex.ru/"
     },
     {
       "id": "I5GCC1",
