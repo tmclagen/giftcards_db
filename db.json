@@ -1,0 +1,13 @@
+{
+  "cards": {
+    "4QL52O": {
+      "status": "process"
+    },
+    "I5GCC1": {
+      "status": "cancel"
+    },
+    "TD0K15": {
+      "status": "success"
+    }
+  }
+}
